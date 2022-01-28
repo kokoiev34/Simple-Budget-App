@@ -4,4 +4,4 @@
 
 2.Link => https://kokoiev34.github.io/Simple-Budget-App/
 
-3.<img src="preview.png">
+<img src="preview.png">
